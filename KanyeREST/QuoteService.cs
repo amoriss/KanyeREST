@@ -8,30 +8,33 @@ using System.Threading.Tasks;
 
 namespace KanyeREST
 {
-    public class QuoteGenerator
+    public class QuoteService
     {
-        public static void KanyeQuote()
-        { 
-            var client = new HttpClient();
+        private HttpClient _client;
+
+        public QuoteService()
+        {
+            _client = new HttpClient();
+        }
+
+        public void KanyeQuote()
+        {
             var kanyeURL = "https://api.kanye.rest";
-            var kanyeReponse = client.GetStringAsync(kanyeURL).Result;
+            var kanyeReponse = _client.GetStringAsync(kanyeURL).Result;
             var kanyeQuote = JObject.Parse(kanyeReponse).GetValue("quote").ToString();
             Console.WriteLine("------------------");
             Console.WriteLine($"Kanye Says: '{kanyeQuote}'");
             Console.WriteLine("------------------");
         }
 
-        public static void RonQuote()
+        public void RonQuote()
         {
-            var client = new HttpClient();
             var ronURL = "https://ron-swanson-quotes.herokuapp.com/v2/quotes";
-            var ronResponse = client.GetStringAsync(ronURL).Result;
+            var ronResponse = _client.GetStringAsync(ronURL).Result;
             var ronQuote = JArray.Parse(ronResponse).ToString().Replace('[', ' ').Replace(']', ' ').Trim();
             Console.WriteLine("------------------");
             Console.WriteLine($"Ron Responds: '{ronQuote}'");
             Console.WriteLine("------------------");
         }
-
-
     }
 }

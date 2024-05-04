@@ -16,3 +16,40 @@ C:\Users\amori\repos\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.dll
 C:\Users\amori\repos\KanyeREST\KanyeREST\obj\Debug\net5.0\ref\KanyeREST.dll
 C:\Users\amori\repos\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.pdb
 C:\Users\amori\repos\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.genruntimeconfig.cache
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\bin\Debug\net5.0\KanyeREST.exe
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\bin\Debug\net5.0\KanyeREST.deps.json
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\bin\Debug\net5.0\KanyeREST.runtimeconfig.json
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\bin\Debug\net5.0\KanyeREST.runtimeconfig.dev.json
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\bin\Debug\net5.0\KanyeREST.dll
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\bin\Debug\net5.0\ref\KanyeREST.dll
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\bin\Debug\net5.0\KanyeREST.pdb
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.csproj.AssemblyReference.cache
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.AssemblyInfoInputs.cache
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.AssemblyInfo.cs
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.csproj.CoreCompileInputs.cache
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.csproj.CopyComplete
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.dll
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\obj\Debug\net5.0\ref\KanyeREST.dll
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.pdb
+C:\Users\amori\repos - Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.genruntimeconfig.cache
+C:\Users\amori\Original\KanyeREST\KanyeREST\bin\Debug\net5.0\KanyeREST.exe
+C:\Users\amori\Original\KanyeREST\KanyeREST\bin\Debug\net5.0\KanyeREST.deps.json
+C:\Users\amori\Original\KanyeREST\KanyeREST\bin\Debug\net5.0\KanyeREST.runtimeconfig.json
+C:\Users\amori\Original\KanyeREST\KanyeREST\bin\Debug\net5.0\KanyeREST.runtimeconfig.dev.json
+C:\Users\amori\Original\KanyeREST\KanyeREST\bin\Debug\net5.0\KanyeREST.dll
+C:\Users\amori\Original\KanyeREST\KanyeREST\bin\Debug\net5.0\KanyeREST.pdb
+C:\Users\amori\Original\KanyeREST\KanyeREST\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\amori\Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.csproj.AssemblyReference.cache
+C:\Users\amori\Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.AssemblyInfoInputs.cache
+C:\Users\amori\Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.AssemblyInfo.cs
+C:\Users\amori\Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.csproj.CoreCompileInputs.cache
+C:\Users\amori\Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.sourcelink.json
+C:\Users\amori\Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.csproj.Up2Date
+C:\Users\amori\Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.dll
+C:\Users\amori\Original\KanyeREST\KanyeREST\obj\Debug\net5.0\refint\KanyeREST.dll
+C:\Users\amori\Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.pdb
+C:\Users\amori\Original\KanyeREST\KanyeREST\obj\Debug\net5.0\KanyeREST.genruntimeconfig.cache
+C:\Users\amori\Original\KanyeREST\KanyeREST\obj\Debug\net5.0\ref\KanyeREST.dll

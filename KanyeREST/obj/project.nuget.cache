@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d3Ybxje+gDqRnEAtE2evwkDPuLdFXcVNGwHm85OLzXxbprZdezFpz1SJ4RiF5wMyPuBolVP+gfPdfYrmN8hKYw==",
+  "dgSpecHash": "472NwS906eMIf342OgLJOCBGcAMuuxErJiEuncnF0RpT1tpRbZUSKPc2jry915FE/MU5rGqRMWg4RLiCmWTfyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amori\\repos\\KanyeREST\\KanyeREST\\KanyeREST.csproj",
+  "projectFilePath": "C:\\Users\\amori\\Original\\KanyeREST\\KanyeREST\\KanyeREST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amori\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
