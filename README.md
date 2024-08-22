@@ -22,9 +22,3 @@ This project is a C# application that simulates a conversation between two RESTf
 2. **Fetch Data**: Retrieve JSON data from the APIs.
 3. **Parse JSON**: Extract and process relevant data from the JSON objects.
 4. **Simulate Dialogue**: Create a conversation flow based on the data, showcasing interactive communication.
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/kanye-rest-conversation-simulator.git
