@@ -12,25 +12,36 @@ namespace KanyeREST
 {
     public class QuoteService
     {
-        private HttpClient _client;
-
-        public QuoteService()
-        {
-            _client = new HttpClient();
-        }
+        private HttpClient _client = new();
+        private readonly string _kanyeUrl = "https://api.kanye.rest";
+        private readonly string _ronUrl = "https://ron-swanson-quotes.herokuapp.com/v2/quotes";
 
         public async Task<string> KanyeRequest()
         {
-            var kanyeURL = "https://api.kanye.rest";
-            var kanyeResponse = await _client.GetStringAsync(kanyeURL);
-            return kanyeResponse;
+            try
+            {
+                var kanyeResponse = await _client.GetStringAsync(_kanyeUrl);
+                return kanyeResponse;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return null;
+            }
         }
 
         public async Task<string> RonRequest()
         {
-            var ronURL = "https://ron-swanson-quotes.herokuapp.com/v2/quotes";
-            var ronResponse = await _client.GetStringAsync(ronURL);
-            return ronResponse;
+            try
+            {
+                var ronResponse = await _client.GetStringAsync(_ronUrl);
+                return ronResponse;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return null;
+            }
         }
     }
 }

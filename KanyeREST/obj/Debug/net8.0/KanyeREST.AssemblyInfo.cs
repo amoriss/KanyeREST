@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KanyeREST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b33ca0fc0deb0f8bc49bf3bb7afb2b6041d3b4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31e26c564b525fd0d3390d59bb1c0df00cabcfa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("KanyeREST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KanyeREST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

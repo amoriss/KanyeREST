@@ -12,7 +12,7 @@ namespace KanyeREST
         {
             
             var quoteService = new QuoteViewer();
-            await quoteService.RonKanyeConvo();
+            await quoteService.ViewRonKanyeConvo();
          
         }
     }
