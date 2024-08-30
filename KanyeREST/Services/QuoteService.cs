@@ -26,21 +26,11 @@ namespace KanyeREST
             return kanyeResponse;
         }
 
-        public async Task<string>RonRequest()
+        public async Task<string> RonRequest()
         {
             var ronURL = "https://ron-swanson-quotes.herokuapp.com/v2/quotes";
             var ronResponse = await _client.GetStringAsync(ronURL);
             return ronResponse;
-        }
-
-        public async Task<Kanye> DeserializeKanye(string kanyeResponse)
-        {
-            return JsonConvert.DeserializeObject<Kanye>(kanyeResponse);
-        }
-
-        public async Task<List<string>> DeserializeRon(string ronResponse)
-        {
-            return JsonConvert.DeserializeObject<List<string>>(ronResponse);
         }
     }
 }

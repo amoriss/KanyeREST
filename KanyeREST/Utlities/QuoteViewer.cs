@@ -15,14 +15,14 @@ public class QuoteViewer
     public async Task ViewKanyeQuote()
     {
         var kanyeRequest = await _quoteService.KanyeRequest();
-        var kanyeObject = await _quoteService.DeserializeKanye(kanyeRequest);
+        var kanyeObject = ResponseDeserializer.DeserializeKanye(kanyeRequest);
         Console.WriteLine($"Kanye says: {kanyeObject.Quote}");
          }
 
     public async Task ViewRonQuote()
     {
         var ronRequest = await _quoteService.RonRequest();
-        var ronObject = await _quoteService.DeserializeRon(ronRequest);
+        var ronObject =  ResponseDeserializer.DeserializeRon(ronRequest);
         Console.WriteLine($"Ron says: {ronObject[0]}");
     }
 
